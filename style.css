@@ -1,0 +1,10 @@
+p {
+    font-size: 10px;
+    font-family: "Open Sans";
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
