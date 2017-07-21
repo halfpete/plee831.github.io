@@ -1,5 +1,5 @@
 p {
-    font-size: 10px;
+    font-size: 20px;
     font-family: "Open Sans";
 }
 
@@ -7,4 +7,10 @@ p {
     margin: auto;
     width: 50%;
     text-align: center;
+}
+
+.Absolute-Center {
+  margin: auto;
+  position: absolute;
+  top: 0; left: 0; bottom: 0; right: 0;
 }
